@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.target=Coin
+comment0.text=\r\n\ class\ Coin\r\n\ \r\n\ @\ Shuzhong\ Chen\ \r\n\ @\ 3/5/2017\r\n
+comment1.params=
+comment1.target=Coin()
+comment2.params=
+comment2.target=int\ getValue()
+comment3.params=
+comment3.target=boolean\ isReal()
+comment4.params=
+comment4.target=void\ act()
+comment5.params=
+comment5.target=int\ inSlot()
+comment6.params=
+comment6.target=void\ moveBack()
+comment7.params=msg
+comment7.target=void\ setMessage(java.lang.String)
+numComments=8

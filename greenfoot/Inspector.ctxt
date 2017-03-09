@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=Inspector
+comment0.text=\r\n\ class\ Inspector\r\n\ \r\n\ @\ Shuzhong\ Chen\ \r\n\ @\ 3/5/2017\r\n
+comment1.params=msg
+comment1.target=void\ setMessage(java.lang.String)
+comment2.params=obj
+comment2.target=void\ addPicker(Picker)
+comment3.params=obj
+comment3.target=void\ removePicker(Picker)
+comment4.params=coin
+comment4.target=void\ inspect(Coin)
+numComments=5

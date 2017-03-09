@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.target=GumballMachine
+comment0.text=\r\n\ class\ GumballMachine\r\n\ \r\n\ @\ Shuzhong\ Chen\ \r\n\ @\ 3/5/2017\r\n
+comment1.params=
+comment1.target=GumballMachine()
+comment2.params=
+comment2.target=void\ getGumball()
+comment3.params=msg
+comment3.target=void\ setMessage(java.lang.String)
+comment4.params=coin
+comment4.target=void\ removeCoin(greenfoot.Actor)
+comment5.params=msg
+comment5.target=void\ inspectMove(java.lang.String)
+comment6.params=picker\ str
+comment6.target=void\ pickerAction(Picker,\ java.lang.String)
+comment7.params=
+comment7.target=void\ clear()
+comment8.params=
+comment8.target=void\ act()
+numComments=9
